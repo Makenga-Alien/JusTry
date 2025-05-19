@@ -1,7 +1,7 @@
 # JusTry
-# rJusTry - My Web Dev Playground (Handle with Care!)
+# JusTry - My Web Dev Playground (Handle with Care!)
 
-Hey there! Welcome to **resipitor**. That's the name I've given to this little corner of my digital world where I'm throwing all sorts of web development experiments. Think of it as my personal sandbox, my lab, my... well, you get the idea.
+Hey there! Welcome to **JusTry**. That's the name I've given to this little corner of my digital world where I'm throwing all sorts of web development experiments. Think of it as my personal sandbox, my lab, my... well, you get the idea.
 
 **What's in here?**
 
