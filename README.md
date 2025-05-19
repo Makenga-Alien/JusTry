@@ -1,5 +1,5 @@
 # JusTry
-# resipitor - My Web Dev Playground (Handle with Care!)
+# rJusTry - My Web Dev Playground (Handle with Care!)
 
 Hey there! Welcome to **resipitor**. That's the name I've given to this little corner of my digital world where I'm throwing all sorts of web development experiments. Think of it as my personal sandbox, my lab, my... well, you get the idea.
 
@@ -12,7 +12,7 @@ Honestly? Probably a bit of everything and maybe even the kitchen sink. As I'm l
 * **Explore crazy ideas:** Yep, you read that right. Sometimes I'll have a random thought like "What if I tried to make a website that...", and this is where I'll try to bring those wild ideas to life (no matter how silly or impractical they might be).
 * **Debug and fix things (messily):** Let's be real, learning involves making mistakes. So, you might stumble upon code that's commented out, full of `console.log` statements, or just plain broken. That's just part of my learning process!
 
-**Why "resipitor"?**
+**Why "JusTry"?**
 
 It's a word I kind of made up (or maybe it exists somewhere and I just don't know!). To me, it sounds like a place where things can be collected, maybe even recycled or repurposed in different ways. And that's kind of what this project is for me – a place to gather my learning experiences and see how they can be used and combined.
 
